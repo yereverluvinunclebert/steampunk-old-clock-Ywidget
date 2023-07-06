@@ -4,12 +4,14 @@ Steampunk old-clock Desktop Yahoo Widget, written in Javascript and XML for the 
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+![steampunkOldClock](https://github.com/yereverluvinunclebert/steampunk-old-clock-Ywidget/assets/2788342/01a9c527-3a36-447f-bc29-3668a56aef22)
 
 This old-clock Desktop Widget is an attractive dieselpunk Yahoo widget for your 
 desktop. This Konfabulator/ yahoo widget provides a simple old fashioned clock.
 Functional and gorgeous at the same time. This Widget is a moveable widget that 
 you can move anywhere around the desktop as you require.
 
+![About](https://github.com/yereverluvinunclebert/steampunk-old-clock-Ywidget/assets/2788342/792c72bc-8e78-4e95-8868-a73cb8fb0672)
 
 All javascript widgets need an engine to function, in this case the widget uses 
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
